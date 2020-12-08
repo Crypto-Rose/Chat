@@ -1,0 +1,8 @@
+.ant-form-item-label > label,h5,.title {
+    color: #fff !important;
+}
+
+.prin {
+    background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
+    border-radius: 5%;
+}
